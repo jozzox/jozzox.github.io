@@ -63,5 +63,3 @@ Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [ihre@email.de]
 Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren. Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.
 
 ---
-
-*Stand: März 2026. Ersetzen Sie alle Angaben in [eckigen Klammern] durch Ihre tatsächlichen Daten.*

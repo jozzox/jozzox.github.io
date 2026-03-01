@@ -52,5 +52,3 @@ Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 Diese Website wird über **GitHub Pages** (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. Weitere Informationen finden Sie in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 ---
-
-*Ersetzen Sie alle Angaben in [eckigen Klammern] durch Ihre tatsächlichen Daten.*
