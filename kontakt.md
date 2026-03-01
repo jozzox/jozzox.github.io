@@ -26,6 +26,8 @@ Haben Sie eine Idee oder ein konkretes Projekt? Ich freue mich auf Ihre Nachrich
     <label for="message">Nachricht</label>
     <textarea id="message" name="message" rows="6" placeholder="Beschreiben Sie Ihr Projekt oder Ihre Frage…" required></textarea>
   </div>
+  <!-- Honeypot anti-spam field — hidden from real users, caught by Formspree -->
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
   <button type="submit" class="btn btn--primary">Nachricht senden</button>
   <p class="contact-note">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer <a href="/datenschutz/">Datenschutzerklärung</a> zu.</p>
 </form>

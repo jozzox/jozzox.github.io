@@ -126,10 +126,6 @@ Sicherheitsansätze, um ganzheitliche Cybersecurity-Strategien zu entwickeln.
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jozzox&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jozzox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophäen
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jozzox&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🚀 Projekte & Erfolge
 
 ### 💼 Wichtige Projekte
@@ -180,7 +176,6 @@ Sicherheitsansätze, um ganzheitliche Cybersecurity-Strategien zu entwickeln.
 
 Erreichen Sie mich am besten über:
 
-- 📧 E-Mail: <jozzox@gmail.com>
 - 💼 GitHub: <https://github.com/jozzox>
 
 ## Pacman Animation
