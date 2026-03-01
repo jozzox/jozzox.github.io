@@ -32,8 +32,3 @@ Haben Sie eine Idee oder ein konkretes Projekt? Ich freue mich auf Ihre Nachrich
   <p class="contact-note">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer <a href="/datenschutz/">Datenschutzerklärung</a> zu.</p>
 </form>
 
----
-
-> **Hinweis:** Ersetzen Sie `YOUR_FORMSPREE_ID` in der `kontakt.md` durch Ihre Formspree-Formular-ID.
-> Kostenloses Konto unter [formspree.io](https://formspree.io) anlegen → Neues Formular erstellen → ID aus der Action-URL kopieren.
-{: .contact-note }
