@@ -21,8 +21,8 @@ description: "Portfolio von jozzox — Branding, visuelle Identität und moderne
   <div class="container">
     <h2 class="section__title">Ausgewählte Projekte</h2>
     <div class="project-grid">
-      {%- assign featured = site.projects | sort: "date" | reverse | limit: 3 -%}
-      {%- for project in featured -%}
+      {%- assign featured = site.projects | sort: "date" | reverse -%}
+      {%- for project in featured limit:3 -%}
         {%- include project-card.html project=project -%}
       {%- endfor -%}
     </div>
@@ -37,8 +37,7 @@ description: "Portfolio von jozzox — Branding, visuelle Identität und moderne
   <div class="container">
     <h2 class="section__title">Aktuelles aus dem Blog</h2>
     <div class="post-grid">
-      {%- assign recent_posts = site.posts | limit: 3 -%}
-      {%- for post in recent_posts -%}
+      {%- for post in site.posts limit:3 -%}
         {%- include post-card.html post=post -%}
       {%- endfor -%}
     </div>
