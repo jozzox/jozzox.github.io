@@ -2,7 +2,6 @@
 layout: project
 title: "Markenrelaunch Firma Alpha"
 date: 2026-02-15
-image: /assets/images/projects/alpha-preview.jpg
 tags: [Branding, Logo, Webdesign]
 client: "Firma Alpha GmbH"
 year: 2026
