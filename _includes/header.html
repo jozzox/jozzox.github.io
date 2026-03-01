@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="container">
+    <a class="site-logo" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+    <nav class="site-nav" aria-label="Hauptnavigation">
+      <a href="{{ '/' | relative_url }}" class="nav-link{% if page.url == '/' %} active{% endif %}">Start</a>
+      <a href="{{ '/projekte/' | relative_url }}" class="nav-link{% if page.url contains '/projekte' %} active{% endif %}">Projekte</a>
+      <a href="{{ '/blog/' | relative_url }}" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">Blog</a>
+      <a href="{{ '/about/' | relative_url }}" class="nav-link{% if page.url contains '/about' %} active{% endif %}">Über mich</a>
+      <a href="{{ '/kontakt/' | relative_url }}" class="nav-link nav-link--cta">Kontakt</a>
+    </nav>
+  </div>
+</header>

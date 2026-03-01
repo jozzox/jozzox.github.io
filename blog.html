@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Blog"
+description: "Insights zu Branding, Webdesign und visueller Identität."
+permalink: /blog/
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-title">Blog</h1>
+    <p class="page-description">Insights zu Branding, Webdesign und visueller Identität für Geschäftskunden.</p>
+  </header>
+
+  <div class="post-grid">
+    {%- for post in site.posts -%}
+      {%- include post-card.html post=post -%}
+    {%- else -%}
+    <p>Beiträge erscheinen in Kürze.</p>
+    {%- endfor -%}
+  </div>
+</div>

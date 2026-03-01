@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Projekte"
+description: "Portfolio — Ausgewählte Branding- und Webdesign-Projekte für Geschäftskunden."
+permalink: /projekte/
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-title">Projekte</h1>
+    <p class="page-description">Ausgewählte Arbeiten aus den Bereichen Branding, visuelle Identität und Webdesign.</p>
+  </header>
+
+  <div class="project-grid">
+    {%- assign projects = site.projects | sort: "date" | reverse -%}
+    {%- for project in projects -%}
+      {%- include project-card.html project=project -%}
+    {%- else -%}
+    <p>Projekte werden in Kürze veröffentlicht.</p>
+    {%- endfor -%}
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <p class="footer-brand">{{ site.title }}</p>
+      <p class="footer-tagline">{{ site.tagline }}</p>
+    </div>
+    <div class="footer-links">
+      <a href="{{ '/impressum/' | relative_url }}">Impressum</a>
+      <a href="{{ '/datenschutz/' | relative_url }}">Datenschutz</a>
+      {%- if site.author.github -%}
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+      {%- endif -%}
+    </div>
+    <p class="footer-copy">&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}</p>
+  </div>
+</footer>

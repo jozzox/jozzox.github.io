@@ -1,0 +1,21 @@
+{%- comment -%} Usage: include project-card.html project=project {%- endcomment -%}
+<article class="project-card">
+  {%- if project.image -%}
+  <div class="project-card__image">
+    <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" loading="lazy">
+  </div>
+  {%- endif -%}
+  <div class="project-card__body">
+    <h3 class="project-card__title">
+      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+    </h3>
+    <p class="project-card__excerpt">{{ project.excerpt | strip_html | truncate: 120 }}</p>
+    {%- if project.tags -%}
+    <ul class="tag-list" aria-label="Tags">
+      {%- for tag in project.tags -%}
+      <li class="tag">{{ tag }}</li>
+      {%- endfor -%}
+    </ul>
+    {%- endif -%}
+  </div>
+</article>

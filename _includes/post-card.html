@@ -1,0 +1,14 @@
+{%- comment -%} Usage: include post-card.html post=post {%- endcomment -%}
+<article class="post-card">
+  <div class="post-card__meta">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d. %B %Y" }}</time>
+    {%- if post.categories -%}
+    <span class="post-card__category">{{ post.categories | first }}</span>
+    {%- endif -%}
+  </div>
+  <h3 class="post-card__title">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h3>
+  <p class="post-card__excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+  <a href="{{ post.url | relative_url }}" class="post-card__link">Weiterlesen &rarr;</a>
+</article>

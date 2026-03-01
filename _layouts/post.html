@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%d. %B %Y" }}
+      </time>
+      {%- if page.categories -%}
+      <span class="post-category">{{ page.categories | join: ", " }}</span>
+      {%- endif -%}
+    </div>
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if page.tags.size > 0 -%}
+  <footer class="post-footer">
+    <ul class="tag-list">
+      {%- for tag in page.tags -%}
+      <li class="tag">{{ tag }}</li>
+      {%- endfor -%}
+    </ul>
+  </footer>
+  {%- endif -%}
+</article>

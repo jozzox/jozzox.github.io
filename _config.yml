@@ -1,0 +1,61 @@
+# Site Identity
+title: "jozzox"
+tagline: "Visuelle Markenidentität & Modernes Webdesign"
+description: >-
+  Portfolio von jozzox — Branding, visuelle Identität
+  und moderne Webprojekte für Geschäftskunden.
+author:
+  name: "jozzox"
+  github: "jozzox"
+
+# Deployment — User Site (baseurl MUST be empty!)
+url: "https://jozzox.github.io"
+baseurl: ""
+
+# Theme
+theme: minima
+
+# Plugins (all included in github-pages gem)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Blog pagination
+paginate: 6
+paginate_path: "/blog/page:num/"
+permalink: /blog/:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projekte/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "jozzox"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .ruby-version
+  - vendor/
+  - README.md
+  - "*.sh"

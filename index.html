@@ -1,0 +1,49 @@
+---
+layout: default
+title: "jozzox — Visuelle Markenidentität & Webdesign"
+description: "Portfolio von jozzox — Branding, visuelle Identität und moderne Webprojekte für Geschäftskunden."
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <h1 class="hero__title">Visuelle Identität,<br>die überzeugt.</h1>
+    <p class="hero__subtitle">Ich entwickle Marken und digitale Erlebnisse für Geschäftskunden — von der Strategie bis zum fertigen Design.</p>
+    <div class="hero__actions">
+      <a href="{{ '/projekte/' | relative_url }}" class="btn btn--primary">Projekte ansehen</a>
+      <a href="{{ '/kontakt/' | relative_url }}" class="btn btn--outline">Kontakt aufnehmen</a>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Projects -->
+<section class="section">
+  <div class="container">
+    <h2 class="section__title">Ausgewählte Projekte</h2>
+    <div class="project-grid">
+      {%- assign featured = site.projects | sort: "date" | reverse | limit: 3 -%}
+      {%- for project in featured -%}
+        {%- include project-card.html project=project -%}
+      {%- endfor -%}
+    </div>
+    <div class="section__cta">
+      <a href="{{ '/projekte/' | relative_url }}" class="btn btn--outline">Alle Projekte</a>
+    </div>
+  </div>
+</section>
+
+<!-- Latest Posts -->
+<section class="section section--alt">
+  <div class="container">
+    <h2 class="section__title">Aktuelles aus dem Blog</h2>
+    <div class="post-grid">
+      {%- assign recent_posts = site.posts | limit: 3 -%}
+      {%- for post in recent_posts -%}
+        {%- include post-card.html post=post -%}
+      {%- endfor -%}
+    </div>
+    <div class="section__cta">
+      <a href="{{ '/blog/' | relative_url }}" class="btn btn--outline">Alle Beiträge</a>
+    </div>
+  </div>
+</section>

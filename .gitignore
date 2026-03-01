@@ -1,0 +1,28 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass cache
+.sass-cache/
+
+# Bundler (vendor kept out, Gemfile.lock MUST be committed!)
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Claude Code local config
+.claude/
