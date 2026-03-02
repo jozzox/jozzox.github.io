@@ -27,22 +27,9 @@ Die Website läuft auf [Jekyll](https://jekyllrb.com/) und wird über **GitHub P
 - **Kontaktformular:** [Formspree](https://formspree.io/)
 - **Plugins:** jekyll-feed, jekyll-sitemap, jekyll-seo-tag
 
----
-
-## Lokale Entwicklung
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Die Website ist dann unter `http://localhost:4000` erreichbar.
-
----
-
 ## Struktur
 
-```
+```markdown
 .
 ├── _includes/        # Wiederverwendbare HTML-Fragmente
 ├── _layouts/         # Seitenlayouts
