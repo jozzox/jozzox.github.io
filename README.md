@@ -42,31 +42,7 @@ Sicherheitsansätze, um ganzheitliche Cybersecurity-Strategien zu entwickeln.
 
 ### 🛠️ Tools & Technologien
 
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Go](https://skillicons.dev/icons?i=go)
-![Rust](https://skillicons.dev/icons?i=rust)
-![Python](https://skillicons.dev/icons?i=py)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Bash](https://skillicons.dev/icons?i=bash)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![CSS3](https://skillicons.dev/icons?i=css3)
-![Django](https://skillicons.dev/icons?i=django)
-![Git](https://skillicons.dev/icons?i=git)
-![Podman](https://skillicons.dev/icons?i=podman)
-![Fedora](https://skillicons.dev/icons?i=fedora)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Qt](https://skillicons.dev/icons?i=qt)
-![Lua](https://skillicons.dev/icons?i=lua)
-![Markdown](https://skillicons.dev/icons?i=md)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![npm](https://skillicons.dev/icons?i=npm)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Webpack](https://skillicons.dev/icons?i=webpack)
-![Sass](https://skillicons.dev/icons?i=sass)
-![Neovim](https://skillicons.dev/icons?i=neovim)
+![Tech Stack](https://skillicons.dev/icons?i=nestjs,tailwind,go,rust,py,aws,bash,ts,bootstrap,css3,django,git,podman,fedora,linux,qt,lua,md,mongodb,nodejs,npm,vscode,webpack,sass,neovim&perline=13)
 
 ## 📊 GitHub Statistiken
 
