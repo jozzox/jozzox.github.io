@@ -6,18 +6,17 @@ permalink: /impressum/
 
 ## Angaben gemäß § 5 TMG
 
-**[jozzox]**
+**jozzox**
+Deutschland
 
 **Kontakt**
-E-Mail: [jozzox@gmail.com](mailto:jozzox@gmail.com)
+E-Mail: jozzox@users.noreply.github.com
 
 ---
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-**[jozzox]**
-[Straße Nr]
-[PLZ Ort]
+jozzox
 
 ---
 
