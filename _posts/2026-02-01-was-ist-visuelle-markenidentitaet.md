@@ -2,7 +2,7 @@
 layout: post
 title: "Was ist visuelle Markenidentität — und warum sie über Ihren Erfolg entscheidet"
 date: 2026-02-01
-category: Branding
+categories: [Branding]
 excerpt: "Markenidentität ist mehr als ein Logo. Sie ist die Summe aller visuellen Signale, die Ihr Unternehmen sendet — und ob diese konsistent, überzeugend und unverwechselbar sind."
 ---
 

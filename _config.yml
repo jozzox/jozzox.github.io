@@ -20,11 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate
 
-# Blog pagination
-paginate: 6
-paginate_path: "/blog/page:num/"
 permalink: /blog/:year/:month/:day/:title/
 
 # Build settings
