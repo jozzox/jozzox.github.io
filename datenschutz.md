@@ -17,7 +17,7 @@ E-Mail: [ihre@email.de]
 
 ## 2. Hosting — GitHub Pages
 
-Diese Website wird über **GitHub Pages** (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. GitHub kann beim Abruf dieser Website technische Daten verarbeiten, darunter Ihre IP-Adresse, Browsertyp, Betriebssystem und Zeitpunkt des Abrufs.
+Diese Website wird über **GitHub Pages** (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. GitHub kann beim Abruf dieser Website technische Daten verarbeiten.
 
 GitHub ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
@@ -27,7 +27,9 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am Betrieb d
 
 ## 3. Kontaktformular — Formspree
 
-Das Kontaktformular auf dieser Website nutzt den Dienst **Formspree** (Formspree, Inc., 462 1st Avenue, New York, NY 10016, USA). Wenn Sie das Formular absenden, werden die von Ihnen eingegebenen Daten (Name, E-Mail, Nachricht) an Formspree übermittelt und von dort an mich weitergeleitet.
+Das Kontaktformular auf dieser Website nutzt den Dienst **Formspree** (Formspree, Inc., 462 1st Avenue, New York, NY 10016, USA)
+Wenn Sie das Formular absenden, werden die von Ihnen eingegebenen,
+Daten (Name, E-Mail, Nachricht) an Formspree übermittelt und von dort an mich weitergeleitet.
 
 Formspree speichert diese Daten temporär zur Weiterleitung. Weitere Informationen: [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/).
 
@@ -39,7 +41,8 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Anbahnung eines Vertragsverhältnis
 
 ## 4. Cookies & Tracking
 
-Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics). Technische Cookies von GitHub Pages oder Formspree können nicht ausgeschlossen werden — diese unterliegen der jeweiligen Datenschutzerklärung des Anbieters.
+Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics)
+Technische Cookies von GitHub Pages oder Formspree können nicht ausgeschlossen werden — diese unterliegen der jeweiligen Datenschutzerklärung des Anbieters.
 
 ---
 
@@ -60,6 +63,8 @@ Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [ihre@email.de]
 
 ## 6. Beschwerderecht
 
-Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren. Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.
+Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
+wenn Sie der Ansicht sind, dass diese gegen die DSGVO verstößt.
+Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.
 
 ---
