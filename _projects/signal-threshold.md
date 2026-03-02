@@ -2,7 +2,6 @@
 layout: project
 title: "Signal Threshold"
 date: 2026-03-01
-image: /assets/images/signal-threshold.png
 tags: [Branding, Visual Identity, Konzept]
 excerpt: "Eine Ästhetik-Philosophie für liminale Zustände — dort wo ein Signal zum nächsten wird. Entwicklung einer visuellen Identität für ein imaginäres Designstudio."
 ---
