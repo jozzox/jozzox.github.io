@@ -42,88 +42,38 @@ Sicherheitsansätze, um ganzheitliche Cybersecurity-Strategien zu entwickeln.
 
 ### 🛠️ Tools & Technologien
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs"
-       height="60"
-       alt="nestjs logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind"
-       height="60"
-       alt="tailwindcss logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-       height="60"
-       alt="go logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust"
-       height="60"
-       alt="rust logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=py"
-       height="60"
-       alt="python logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws"
-       height="60"
-       alt="amazonwebservices logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-       height="60"
-       alt="bash logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts"
-       height="60"
-       alt="typescript logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-       height="60"
-       alt="bootstrap logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       height="60"
-       alt="css3 logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-       height="60"
-       alt="django logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       height="60"
-       alt="git logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"
-       height="60"
-       alt="podman logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
-       height="60"
-       alt="fedora logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-       height="60"
-       alt="linux logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"
-       height="60"
-       alt="qt logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"
-       height="60"
-       alt="lua logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=md"
-       height="60"
-       alt="markdown logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-       height="60"
-       alt="mongodb logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-       height="60"
-       alt="nodejs logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-       height="60"
-       alt="npm logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-       height="60"
-       alt="vscode logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-       height="60"
-       alt="webpack logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-       height="60"
-       alt="sass logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=neovim"
-       height="60"
-       alt="neovim logo" />&nbsp;
-</div>
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Python](https://skillicons.dev/icons?i=py)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![Podman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg)
+![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+![Qt](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg)
+![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg)
+![Markdown](https://skillicons.dev/icons?i=md)
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg)
+![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)
+![Neovim](https://skillicons.dev/icons?i=neovim)
 
 ## 📊 GitHub Statistiken
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jozzox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jozzox&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jozzox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jozzox&theme=dark&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jozzox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🚀 Projekte & Erfolge
@@ -183,10 +133,7 @@ Erreichen Sie mich am besten über:
 ![Pacman](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/pacman.svg)
 
 ---
-<div align="center">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jozzox&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
 
 <!-- Erstellt mit ❤️ für GitHub Profile -->
