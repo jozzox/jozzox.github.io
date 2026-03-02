@@ -98,7 +98,7 @@ Sicherheitsansätze, um ganzheitliche Cybersecurity-Strategien zu entwickeln.
 
 Erreichen Sie mich am besten über:
 
-- 💼 GitHub: <https://github.com/jozzox>
+- 💼 GitHub: <https://jozzox.github.io>
 
 ## Pacman Animation
 
