@@ -6,22 +6,17 @@ permalink: /impressum/
 
 ## Angaben gemäß § 5 TMG
 
-**[VORNAME NACHNAME]**
-[Straße Nr]
-[PLZ Ort]
+**jozzox**
 Deutschland
 
 **Kontakt**
-E-Mail: [ihre@email.de]
-Telefon: [+49 000 000 00 00] *(optional)*
+E-Mail: jozzox@users.noreply.github.com
 
 ---
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-[VORNAME NACHNAME]
-[Straße Nr]
-[PLZ Ort]
+jozzox
 
 ---
 

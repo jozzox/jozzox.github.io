@@ -8,10 +8,8 @@ permalink: /datenschutz/
 
 Verantwortlich für die Datenverarbeitung auf dieser Website:
 
-**[VORNAME NACHNAME]**
-[Straße Nr]
-[PLZ Ort]
-E-Mail: [ihre@email.de]
+**jozzox**
+E-Mail: jozzox@users.noreply.github.com
 
 ---
 
@@ -54,7 +52,7 @@ Sie haben gemäß DSGVO folgende Rechte gegenüber dem Verantwortlichen:
 - **Datenübertragbarkeit** (Art. 20 DSGVO)
 - **Widerspruch** (Art. 21 DSGVO) — Sie können der Verarbeitung Ihrer Daten widersprechen.
 
-Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [ihre@email.de]
+Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: jozzox@users.noreply.github.com
 
 ---
 
