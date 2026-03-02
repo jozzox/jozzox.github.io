@@ -8,10 +8,9 @@ permalink: /datenschutz/
 
 Verantwortlich für die Datenverarbeitung auf dieser Website:
 
-**[VORNAME NACHNAME]**
-[Straße Nr]
-[PLZ Ort]
-E-Mail: [ihre@email.de]
+**[Jozzox Design]**
+
+E-Mail: [jozzox@gmail.com]
 
 ---
 
@@ -27,9 +26,8 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am Betrieb d
 
 ## 3. Kontaktformular — Formspree
 
-Das Kontaktformular auf dieser Website nutzt den Dienst **Formspree** (Formspree, Inc., 462 1st Avenue, New York, NY 10016, USA)
-Wenn Sie das Formular absenden, werden die von Ihnen eingegebenen,
-Daten (Name, E-Mail, Nachricht) an Formspree übermittelt und von dort an mich weitergeleitet.
+Das Kontaktformular auf dieser Website nutzt den Dienst **Formspree** (Formspree, Inc., 462 1st Avenue, New York, NY 10016, USA).
+Wenn Sie das Formular absenden, werden die von Ihnen eingegebenen Daten (Name, E-Mail, Nachricht) an Formspree übermittelt und von dort an mich weitergeleitet.
 
 Formspree speichert diese Daten temporär zur Weiterleitung. Weitere Informationen: [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/).
 
@@ -41,7 +39,7 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Anbahnung eines Vertragsverhältnis
 
 ## 4. Cookies & Tracking
 
-Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics)
+Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics).
 Technische Cookies von GitHub Pages oder Formspree können nicht ausgeschlossen werden — diese unterliegen der jeweiligen Datenschutzerklärung des Anbieters.
 
 ---
@@ -57,14 +55,14 @@ Sie haben gemäß DSGVO folgende Rechte gegenüber dem Verantwortlichen:
 - **Datenübertragbarkeit** (Art. 20 DSGVO)
 - **Widerspruch** (Art. 21 DSGVO) — Sie können der Verarbeitung Ihrer Daten widersprechen.
 
-Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [ihre@email.de]
+Zur Ausübung Ihrer Rechte kontaktieren Sie mich bitte unter: [jozzox@gmail.com](mailto:jozzox@gmail.com).
 
 ---
 
 ## 6. Beschwerderecht
 
 Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
-wenn Sie der Ansicht sind, dass diese gegen die DSGVO verstößt.
+Wenn Sie der Ansicht sind, dass diese gegen die DSGVO verstößt.
 Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.
 
 ---
