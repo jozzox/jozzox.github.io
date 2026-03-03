@@ -210,6 +210,9 @@ ul { list-style: none; }
   color: var(--color-primary);
   margin-bottom: var(--space-lg);
 }
+.text-accent {
+  color: var(--color-accent); /* #d97757 */
+}
 .hero__subtitle {
   font-family: var(--font-body);
   font-size: var(--font-size-lg);
