@@ -28,11 +28,14 @@ Erst wenn all diese Elemente zusammenspielen, entsteht eine Identität — etwas
 
 Für Unternehmer und Geschäftskunden ist das Erscheinungsbild kein Luxus, sondern ein strategisches Instrument.
 
-**Vertrauen entsteht visuell.** Bevor ein potenzieller Kunde Ihre Website liest, Ihre Preise sieht oder Sie persönlich trifft, hat er bereits ein Urteil gefällt — auf Basis dessen, wie Sie aussehen. Ein professionelles, konsistentes Design signalisiert: Hier ist jemand, dem ich vertrauen kann.
+**Vertrauen entsteht visuell.** Bevor ein potenzieller Kunde Ihre Website liest, Ihre Preise sieht oder Sie persönlich trifft, hat er bereits ein Urteil gefällt — auf Basis dessen, wie Sie aussehen.
+Ein professionelles, konsistentes Design signalisiert: Hier ist jemand, dem ich vertrauen kann.
 
-**Differenzierung im Wettbewerb.** In gesättigten Märkten ist Differenzierung alles. Wenn alle dasselbe anbieten, entscheidet oft die Wahrnehmung — und die wird maßgeblich durch das visuelle Erscheinungsbild geprägt.
+**Differenzierung im Wettbewerb.** In gesättigten Märkten ist Differenzierung alles. Wenn alle dasselbe anbieten,
+entscheidet oft die Wahrnehmung — und die wird maßgeblich durch das visuelle Erscheinungsbild geprägt.
 
-**Effizienz durch Konsistenz.** Ein klares Markensystem macht die gesamte Kommunikation einfacher: neue Materialien entstehen schneller, Mitarbeiter können eigenständig markenkonform arbeiten, und der Wiedererkennungswert steigt über alle Kanäle hinweg.
+**Effizienz durch Konsistenz.** Ein klares Markensystem macht die gesamte Kommunikation einfacher: neue Materialien entstehen schneller, Mitarbeiter können eigenständig markenkonform arbeiten,
+und der Wiedererkennungswert steigt über alle Kanäle hinweg.
 
 ## Der häufigste Fehler: Design ohne Strategie
 
@@ -59,4 +62,6 @@ Besonders sinnvoll ist ein professionelles Branding:
 
 ---
 
-Wenn Sie spüren, dass Ihr Erscheinungsbild nicht mehr zu dem passt, was Sie wirklich anbieten — oder wenn Sie gerade am Anfang stehen und es von Beginn an richtig machen wollen: [Schreiben Sie mir.]({{ '/kontakt/' | relative_url }})
+Wenn Sie spüren, dass Ihr Erscheinungsbild nicht mehr zu dem passt,
+was Sie wirklich anbieten — oder wenn Sie gerade am Anfang stehen und es von Beginn an richtig machen wollen:
+[Schreiben Sie mir.]({{ '/kontakt/' | relative_url }})
