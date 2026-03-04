@@ -5,6 +5,7 @@ date: 2026-03-01
 tags: [NetzwerkMonitoring, LLM, Heimnetzwerk]
 excerpt: "Eine 5-stufige Monitoring-Pipeline für WLAN-Netzwerke, die Traffic automatisiert erfasst, verarbeitet und mittels lokalem LLM auf Anomalien analysiert. Der Operator behält volle Kontrolle – passive Beobachtung, keine Auto-Interventionen."
 ---
+
 ## Netzwerk-Monitoring Pipeline Überblick
 
 Eine modulare 5-stufige Pipeline zur Erfassung und Analyse von Netzwerk-Traffic mittels regelbasierter Erkennung und lokalem LLM – ohne Cloud-Abhängigkeit.
@@ -19,29 +20,11 @@ Modulare Pipeline mit 5 Verarbeitungsstufen – von Paketerfassung über regelba
 
 ## Pipeline-Architektur
 
-```markdown
-Phase 1: CAPTURE
-  Netzwerk-Paketmitschnitt → raw .pcap-Dateien
-       │
-       ▼
-Phase 2: PROCESS
-  Paketanalyse → strukturierte Logs
-  (DNS, Ports, Protokolle, pro-Gerät Traffic)
-       │
-       ▼
-Phase 3: DETECT
-  Regelbasierte Anomalie-Erkennung
-  (Unerwartete Verbindungen, ungewöhnliche Muster)
-       │
-       ▼
-Phase 4: ANALYZE
-  Lokales LLM → Bewertung & Priorisierung
-  (Severity-Scoring, Kontextanalyse)
-       │
-       ▼
-Phase 5: NOTIFY
-  Operator entscheidet → Block/Monitor/Ignore
-```
+- **Phase 1: CAPTURE** — Netzwerk-Paketmitschnitt → raw .pcap-Dateien
+- **Phase 2: PROCESS** — Paketanalyse → strukturierte Logs (DNS, Ports, Protokolle, pro-Gerät Traffic)
+- **Phase 3: DETECT** — Regelbasierte Anomalie-Erkennung (Unerwartete Verbindungen, ungewöhnliche Muster)
+- **Phase 4: ANALYZE** — Lokales LLM → Bewertung & Priorisierung (Severity-Scoring, Kontextanalyse)
+- **Phase 5: NOTIFY** — Operator entscheidet → Block/Monitor/Ignore
 
 ## Tech-Stack
 
