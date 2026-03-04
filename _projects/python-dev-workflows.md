@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Python Dev Workflows"
-date: 2026-02-15
+date: 2026-03-01
 tags: [Python, UV, PyQt6, macOS]
 excerpt: "Standardisierte Entwicklungs-Workflows für Python-Projekte unter macOS mit UV als modernem Package Manager. Zwei dokumentierte Arbeitsweisen – Terminal-first und VS Code-first – mit PyQt6-Integration, reproduzierbaren Builds und Schnellstart-Templates."
 ---
@@ -65,7 +65,7 @@ mein-projekt/
 - **Python:** 3.12 (gemanaged über UV)
 - **GUI:** PyQt6 + qtpy (Abstraktionslayer)
 - **IDE:** VS Code mit Python Extension + Auto-venv-Detection
-- **OS:** macOS (Mac Mini M4) mit Homebrew
+- **OS:** macOS  mit Homebrew
 
 ## Features
 
