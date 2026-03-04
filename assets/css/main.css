@@ -715,6 +715,32 @@ ul {
   margin-bottom: var(--space-xs);
 }
 
+.project-content pre {
+  background: var(--color-primary);
+  color: var(--color-white);
+  padding: var(--space-lg);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  margin-bottom: var(--space-md);
+  width: fit-content;
+  margin-inline: auto;
+}
+
+.project-content pre code {
+  background: none;
+  padding: 0;
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
+.project-content code {
+  background: var(--color-surface-alt);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
 .project-nav {
   margin-top: var(--space-2xl);
   padding-top: var(--space-lg);
