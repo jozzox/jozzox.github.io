@@ -7,28 +7,30 @@ permalink: /about/
 
 ## Hallo, ich bin jozzox
 
-Ich bin Designer mit Fokus auf visuelle Markenidentität — und ich glaube daran, dass gutes Design nicht nur schön aussieht, sondern Vertrauen schafft, Werte kommuniziert und Entscheidungen beeinflusst.
+Ich kombiniere visuelles Handwerk mit einem analytischen Blick. Als Designer denke ich in Systemen — als Ethical Hacker denke ich wie ein Angreifer. Beides formt, wie ich an Projekte herangehe: durchdacht, strukturiert, mit Blick fürs Wesentliche.
 
-Meine Kunden sind Unternehmer und Geschäftskunden, die wissen, dass ihr Erscheinungsbild ein strategisches Asset ist — kein Beiprodukt.
+Ich glaube daran, dass gutes Design nicht nur schön aussieht, sondern Vertrauen schafft, Werte kommuniziert und Entscheidungen beeinflusst. Das ist keine Theorie — das ist meine tägliche Praxis.
+
+Meine Kunden sind Unternehmer und Geschäftskunden, die verstehen, dass ihr Erscheinungsbild ein strategisches Asset ist — und keine Aufgabe für den Praktikanten.
 
 ---
 
 <div class="skills-grid">
   <div class="skill-card">
     <h3>Branding</h3>
-    <p>Logo, Styleguide, Corporate Design — von der ersten Idee bis zum fertigen System, das über alle Kanäle funktioniert.</p>
+    <p>Logo, Styleguide, Corporate Design — ich baue Markensysteme, die über alle Kanäle konsistent funktionieren und nicht nach zwei Jahren veraltet wirken.</p>
   </div>
   <div class="skill-card">
     <h3>Webdesign</h3>
-    <p>Moderne, konversionsorientierte Websites — gebaut mit Fokus auf Klarheit, Geschwindigkeit und Nutzererlebnis.</p>
+    <p>Keine Templates, kein Einheitsbrei. Klare Websites, die Besucher führen, überzeugen und konvertieren — gebaut mit echtem Verständnis für Nutzerverhalten.</p>
   </div>
   <div class="skill-card">
     <h3>Visuelle Identität</h3>
-    <p>Farben, Typographie, Bildsprache — ein konsistentes Erscheinungsbild, das sofort erkennbar ist und im Gedächtnis bleibt.</p>
+    <p>Farbe, Typographie, Bildsprache — ein System, das sofort erkennbar ist. Nicht weil es laut ist, sondern weil es stimmig ist.</p>
   </div>
   <div class="skill-card">
     <h3>Strategie</h3>
-    <p>Design beginnt mit dem Verstehen Ihrer Zielgruppe, Ziele und Positionierung — bevor das erste Pixel gesetzt wird.</p>
+    <p>Ich fange nicht mit Figma an — ich fange mit Fragen an. Zielgruppe, Positionierung, Ziele. Erst wenn das klar ist, kommt das erste Pixel.</p>
   </div>
 </div>
 
@@ -36,15 +38,15 @@ Meine Kunden sind Unternehmer und Geschäftskunden, die wissen, dass ihr Erschei
 
 ### Arbeitsweise
 
-Ich arbeite strukturiert, direkt und lösungsorientiert. Jedes Projekt beginnt mit einem klaren Briefing — ich höre zu, stelle die richtigen Fragen, und liefere dann.
+Ich höre zu — und stelle dann die Fragen, die meine Kunden sich selbst noch nicht gestellt haben. Aus diesem Verständnis entsteht ein klares Briefing, das als Kompass für das gesamte Projekt dient.
 
-Kein endloses Hin und Her. Kein Design-by-Committee. Sondern: klare Entscheidungen, begründet durch Strategie und Handwerk.
+Kein endloses Hin und Her. Kein Design-by-Committee. Ich treffe Entscheidungen, erkläre sie kurz — und stehe dazu. Das spart Zeit und führt zu besseren Ergebnissen.
 
 **Was das für Sie bedeutet:**
 
-- Schnelle Ergebnisse durch klare Prozesse
-- Transparente Kommunikation in jeder Phase
-- Designs, die Ihre Zielgruppe ansprechen — nicht den Zeitgeist
+- Klare Prozesse statt Chaos — Sie wissen immer, wo wir stehen
+- Direkte Kommunikation ohne Agentur-Formalitäten
+- Designs, die Ihre Zielgruppe ansprechen — nicht den aktuellen Trend
 
 ---
 
@@ -52,7 +54,9 @@ Kein endloses Hin und Her. Kein Design-by-Committee. Sondern: klare Entscheidung
 
 Auf der Design-Seite arbeite ich mit **Figma**, **Adobe Illustrator** und **Photoshop**.
 
-Wenn Code gefragt ist: **HTML/CSS**, **JavaScript**, **Jekyll** und **React** — ich kann Designs nicht nur gestalten, sondern auch umsetzen.
+Wenn Code gefragt ist: **HTML/CSS**, **JavaScript**, **Jekyll** und **React** — ich kann Designs nicht nur entwerfen, sondern auch selbst umsetzen.
+
+Dazu kommt ein Security-Mindset: Als Ethical Hacker betrachte ich Projekte auch aus der Perspektive möglicher Schwachstellen. Sauberer, sicherer Code ist für mich keine Option — er ist Standard.
 
 ---
 

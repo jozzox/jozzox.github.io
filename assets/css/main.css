@@ -349,6 +349,8 @@ ul {
   display: flex;
   flex-direction: column;
   gap: var(--space-xl);
+  max-width: var(--content-width);
+  margin-inline: auto;
 }
 
 .project-list__item {
@@ -472,6 +474,7 @@ ul {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-xs);
+  justify-content: center;
 }
 
 .tag {
@@ -511,6 +514,49 @@ ul {
 
 .page-body {
   max-width: var(--content-width);
+  margin-inline: auto;
+}
+
+.page-body p {
+  margin-bottom: var(--space-md);
+}
+
+.page-body h2 {
+  font-family: var(--font-sans);
+  font-size: var(--font-size-2xl);
+  font-weight: 700;
+  margin-block: var(--space-xl) var(--space-md);
+  color: var(--color-primary);
+  text-align: center;
+}
+
+.page-body h3 {
+  font-family: var(--font-sans);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  margin-block: var(--space-xl) var(--space-sm);
+  color: var(--color-primary);
+  text-align: center;
+}
+
+.page-body ul,
+.page-body ol {
+  padding-left: var(--space-lg);
+  margin-bottom: var(--space-md);
+}
+
+.page-body li {
+  margin-bottom: var(--space-xs);
+}
+
+.page-body hr {
+  margin-block: var(--space-xl);
+}
+
+.page-body .btn {
+  display: block;
+  width: fit-content;
+  margin-inline: auto;
 }
 
 /* --- Post Detail --- */
@@ -625,6 +671,7 @@ ul {
   letter-spacing: -0.03em;
   color: var(--color-primary);
   margin-bottom: var(--space-lg);
+  text-align: center;
 }
 
 .project-info {
@@ -643,6 +690,7 @@ ul {
 
 .project-content {
   max-width: var(--content-width);
+  margin-inline: auto;
 }
 
 .project-content h2 {
@@ -651,6 +699,7 @@ ul {
   font-weight: 700;
   margin-block: var(--space-xl) var(--space-md);
   color: var(--color-primary);
+  text-align: center;
 }
 
 .project-content p {
@@ -737,7 +786,7 @@ ul {
 /* --- About Skills Grid --- */
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: var(--space-lg);
   margin-block: var(--space-xl);
 }
