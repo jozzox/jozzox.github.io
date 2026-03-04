@@ -345,6 +345,22 @@ ul {
   justify-content: center;
 }
 
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xl);
+}
+
+.project-list__item {
+  padding: 0;
+}
+
+.project-divider {
+  border: none;
+  border-top: 1px solid var(--color-border, #e5e7eb);
+  margin: var(--space-xl) 0 0;
+}
+
 .project-card {
   background: var(--color-white);
   border-radius: var(--radius-md);
