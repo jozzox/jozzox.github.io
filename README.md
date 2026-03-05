@@ -24,7 +24,6 @@ Die Website läuft auf [Jekyll](https://jekyllrb.com/) und wird über **GitHub P
 - **Generator:** Jekyll (via `github-pages` Gem)
 - **Sprache:** Deutsch (de_DE)
 - **Styling:** Custom CSS (`assets/css/main.css`)
-- **Kontaktformular:** [Formspree](https://formspree.io/)
 - **Plugins:** jekyll-feed, jekyll-sitemap, jekyll-seo-tag
 
 ## Struktur

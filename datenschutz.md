@@ -6,17 +6,22 @@ permalink: /datenschutz/
 
 ## 1. Verantwortlicher
 
+<!-- TODO: Vor Go-Live mit echten Daten ersetzen! -->
+
 Verantwortlich für die Datenverarbeitung auf dieser Website:
 
-### jozzox
+**[Vor- und Nachname]**
+[Straße Hausnummer]
+[PLZ Ort]
+Deutschland
 
-E-Mail: [jozzox@gmail.com](mailto:jozzox@gmail.com)
+Kontaktaufnahme über das [Kontaktformular](/kontakt/) auf dieser Website.
 
 ---
 
 ## 2. Hosting — GitHub Pages
 
-Diese Website wird über **GitHub Pages** (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. GitHub kann beim Abruf dieser Website technische Daten verarbeiten.
+Diese Website wird über **GitHub Pages** (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) gehostet. GitHub kann beim Abruf dieser Website technische Daten (z. B. IP-Adresse, Browsertyp, Zeitpunkt des Zugriffs) verarbeiten.
 
 GitHub ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
@@ -24,45 +29,37 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am Betrieb d
 
 ---
 
-## 3. Kontaktformular — Formspree
+## 3. Google Fonts
 
-Das Kontaktformular auf dieser Website nutzt den Dienst **Formspree** (Formspree, Inc., 462 1st Avenue, New York, NY 10016, USA).
-Wenn Sie das Formular absenden, werden die von Ihnen eingegebenen Daten (Name, E-Mail, Nachricht) an Formspree übermittelt und von dort an mich weitergeleitet.
+Diese Website nutzt **Google Fonts** zur Darstellung von Schriftarten (Poppins, Lora). Beim Aufruf der Seite wird eine Verbindung zu Servern von Google (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) hergestellt. Dabei wird Ihre IP-Adresse an Google übermittelt.
 
-Formspree speichert diese Daten temporär zur Weiterleitung. Weitere Informationen: [Formspree Privacy Policy](https://formspree.io/legal/privacy-policy/).
+Google ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [Google Fonts Datenschutzinfo](https://developers.google.com/fonts/faq/privacy).
 
-Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Anbahnung eines Vertragsverhältnisses) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung Ihrer Anfrage).
-
-**Speicherdauer:** Ich bewahre Ihre Anfragen so lange auf, wie es für die Bearbeitung notwendig ist — in der Regel nicht länger als 6 Monate.
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der einheitlichen Darstellung der Website).
 
 ---
 
 ## 4. Cookies & Tracking
 
-Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics).
-Technische Cookies von GitHub Pages oder Formspree können nicht ausgeschlossen werden — diese unterliegen der jeweiligen Datenschutzerklärung des Anbieters.
+Diese Website setzt **keine eigenen Cookies** und nutzt **kein Tracking** (z. B. Google Analytics). Technische Cookies von GitHub Pages können nicht ausgeschlossen werden — diese unterliegen der jeweiligen Datenschutzerklärung des Anbieters.
 
 ---
 
 ## 5. Ihre Rechte
 
-Sie haben gemäß DSGVO folgende Rechte gegenüber dem Verantwortlichen:
+Sie haben gemäß DSGVO folgende Rechte:
 
-- **Auskunft** (Art. 15 DSGVO) — Sie können Auskunft über Ihre gespeicherten Daten verlangen.
-- **Berichtigung** (Art. 16 DSGVO) — Unrichtige Daten können Sie korrigieren lassen.
-- **Löschung** (Art. 17 DSGVO) — Sie können die Löschung Ihrer Daten verlangen, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.
-- **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
-- **Datenübertragbarkeit** (Art. 20 DSGVO)
-- **Widerspruch** (Art. 21 DSGVO) — Sie können der Verarbeitung Ihrer Daten widersprechen.
+- **Auskunft** (Art. 15) — Auskunft über Ihre gespeicherten Daten
+- **Berichtigung** (Art. 16) — Korrektur unrichtiger Daten
+- **Löschung** (Art. 17) — Löschung Ihrer Daten, sofern keine Aufbewahrungspflichten bestehen
+- **Einschränkung** (Art. 18) — Einschränkung der Verarbeitung
+- **Datenübertragbarkeit** (Art. 20) — Übertragung Ihrer Daten
+- **Widerspruch** (Art. 21) — Widerspruch gegen die Verarbeitung
 
-Zur Ausübung Ihrer Rechte kontaktieren Sie mich bitte unter: E-Mail: [jozzox@gmail.com](mailto:jozzox@gmail.com)
+Zur Ausübung Ihrer Rechte nutzen Sie bitte das [Kontaktformular](/kontakt/) oder kontaktieren mich über [GitHub](https://github.com/jozzox).
 
 ---
 
 ## 6. Beschwerderecht
 
-Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
-Wenn Sie der Ansicht sind, dass diese gegen die DSGVO verstößt.
-Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.
-
----
+Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren, wenn Sie der Ansicht sind, dass diese gegen die DSGVO verstößt. Die zuständige Aufsichtsbehörde richtet sich nach Ihrem Wohnort bzw. dem Ort des mutmaßlichen Verstoßes.

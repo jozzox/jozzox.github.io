@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Circle background -->
+  <circle cx="100" cy="100" r="100" fill="#141413"/>
+
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="avatar-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#faf9f5" stroke-width="0.3" opacity="0.06"/>
+    </pattern>
+    <clipPath id="circle-clip">
+      <circle cx="100" cy="100" r="100"/>
+    </clipPath>
+  </defs>
+  <rect width="200" height="200" fill="url(#avatar-grid)" clip-path="url(#circle-clip)"/>
+
+  <!-- Accent glow -->
+  <circle cx="100" cy="85" r="60" fill="#d97757" opacity="0.08"/>
+
+  <!-- Abstract head silhouette -->
+  <circle cx="100" cy="72" r="32" fill="none" stroke="#faf9f5" stroke-width="2.5" opacity="0.9"/>
+
+  <!-- Shoulders curve -->
+  <path d="M 52 145 C 52 115 75 105 100 105 C 125 105 148 115 148 145"
+        fill="none" stroke="#faf9f5" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- Code brackets (left) -->
+  <path d="M 38 80 L 28 90 L 38 100" fill="none" stroke="#d97757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <!-- Code brackets (right) -->
+  <path d="M 162 80 L 172 90 L 162 100" fill="none" stroke="#d97757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <!-- Shield accent (security/ethical hacker) -->
+  <path d="M 100 55 L 115 60 V 72 C 115 80 108 85 100 88 C 92 85 85 80 85 72 V 60 Z"
+        fill="none" stroke="#d97757" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Bottom accent ring -->
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#d97757" stroke-width="1.5" opacity="0.3"/>
+</svg>

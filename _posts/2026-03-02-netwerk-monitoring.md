@@ -254,4 +254,4 @@ Mit einer maßgeschneiderten Pipeline haben Sie:
 
 Ich helfe Ihnen gerne beim Aufbau – egal ob Sie selbst coden oder professionelle Unterstützung brauchen.
 
-[Lassen Sie uns darüber sprechen →](mailto:jozzox@gmail.com?subject=Netzwerk-Monitoring-Pipeline%20für%20mein%20Unternehmen)
+[Lassen Sie uns darüber sprechen →](/kontakt/)

@@ -1,4 +1,5 @@
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" class="contact-form">
+<!-- TODO: Backend-Service (z.B. Formspree, Netlify Forms) einrichten und action-URL ersetzen -->
+<form action="#" method="POST" class="contact-form">
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" placeholder="Ihr Name" required>
@@ -16,9 +17,6 @@
     <textarea id="message" name="message" rows="6" placeholder="Beschreiben Sie Ihr Projekt oder Ihre Frage…"
       required></textarea>
   </div>
-  <!-- Honeypot anti-spam field — hidden from real users, caught by Formspree -->
-  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
-  <button type="submit" class="btn btn--primary">Nachricht senden</button>
-  <p class="contact-note">Mit dem Absenden stimmen Sie der Verarbeitung Ihrer Daten gemäß unserer <a
-      href="/datenschutz/">Datenschutzerklärung</a> zu.</p>
+  <button type="submit" class="btn btn--primary" disabled>Nachricht senden</button>
+  <p class="contact-note">Kontaktformular wird in Kürze aktiviert. Bis dahin erreichen Sie mich über <a href="https://github.com/jozzox">GitHub</a>.</p>
 </form>
