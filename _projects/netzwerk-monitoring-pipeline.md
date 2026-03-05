@@ -2,6 +2,7 @@
 layout: project
 title: "Netzwerk-Monitoring Pipeline"
 date: 2026-03-01
+image: /assets/images/projects/netzwerk-monitoring-pipeline.svg
 tags: [NetzwerkMonitoring, LLM, Heimnetzwerk]
 excerpt: "Eine 5-stufige Monitoring-Pipeline für WLAN-Netzwerke, die Traffic automatisiert erfasst, verarbeitet und mittels lokalem LLM auf Anomalien analysiert. Der Operator behält volle Kontrolle – passive Beobachtung, keine Auto-Interventionen."
 ---

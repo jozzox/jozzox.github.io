@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <!-- Background -->
+  <rect width="1200" height="675" fill="#141413"/>
+
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#faf9f5" stroke-width="0.3" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+
+  <!-- Accent glow -->
+  <circle cx="600" cy="280" r="200" fill="#788c5d" opacity="0.07"/>
+
+  <!-- Network graph: 5 nodes connected -->
+  <!-- Central node -->
+  <circle cx="600" cy="280" r="36" fill="#788c5d" opacity="0.9"/>
+  <circle cx="600" cy="280" r="50" fill="none" stroke="#788c5d" stroke-width="2" opacity="0.3"/>
+  <circle cx="600" cy="280" r="66" fill="none" stroke="#788c5d" stroke-width="1" opacity="0.15"/>
+
+  <!-- LLM label in center -->
+  <text x="600" y="275" font-family="'Courier New', monospace" font-size="13" fill="#141413" text-anchor="middle" font-weight="800">LLM</text>
+  <text x="600" y="290" font-family="'Courier New', monospace" font-size="10" fill="#141413" text-anchor="middle">ANALYZE</text>
+
+  <!-- Node 1: top-left (CAPTURE) -->
+  <line x1="540" y1="238" x2="382" y2="178" stroke="#788c5d" stroke-width="2" opacity="0.5"/>
+  <circle cx="360" cy="168" r="28" fill="#2a3d28" stroke="#788c5d" stroke-width="2"/>
+  <text x="360" y="163" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">CAP-</text>
+  <text x="360" y="175" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">TURE</text>
+
+  <!-- Node 2: top-right (PROCESS) -->
+  <line x1="660" y1="238" x2="818" y2="178" stroke="#788c5d" stroke-width="2" opacity="0.5"/>
+  <circle cx="840" cy="168" r="28" fill="#2a3d28" stroke="#788c5d" stroke-width="2"/>
+  <text x="840" y="163" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">PRO-</text>
+  <text x="840" y="175" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">CESS</text>
+
+  <!-- Node 3: bottom-left (DETECT) -->
+  <line x1="565" y1="315" x2="400" y2="382" stroke="#788c5d" stroke-width="2" opacity="0.5"/>
+  <circle cx="378" cy="394" r="28" fill="#2a3d28" stroke="#788c5d" stroke-width="2"/>
+  <text x="378" y="389" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">DE-</text>
+  <text x="378" y="401" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">TECT</text>
+
+  <!-- Node 4: bottom-right (NOTIFY) -->
+  <line x1="635" y1="315" x2="800" y2="382" stroke="#788c5d" stroke-width="2" opacity="0.5"/>
+  <circle cx="822" cy="394" r="28" fill="#2a3d28" stroke="#788c5d" stroke-width="2"/>
+  <text x="822" y="389" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">NO-</text>
+  <text x="822" y="401" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">TIFY</text>
+
+  <!-- Node 5: bottom-center (router/source) -->
+  <line x1="600" y1="316" x2="600" y2="390" stroke="#788c5d" stroke-width="2" opacity="0.5" stroke-dasharray="5,3"/>
+  <rect x="574" y="392" width="52" height="36" rx="6" fill="#2a3d28" stroke="#788c5d" stroke-width="2"/>
+  <text x="600" y="408" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">NET</text>
+  <text x="600" y="420" font-family="'Courier New', monospace" font-size="9" fill="#788c5d" text-anchor="middle" font-weight="700">WORK</text>
+
+  <!-- Data flow arrows (subtle) -->
+  <path d="M 388 168 L 812 168" fill="none" stroke="#788c5d" stroke-width="1" opacity="0.15" stroke-dasharray="8,6"/>
+  <path d="M 378 394 L 794 394" fill="none" stroke="#788c5d" stroke-width="1" opacity="0.15" stroke-dasharray="8,6"/>
+
+  <!-- Bottom: Title and tags -->
+  <text x="600" y="510" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="800" fill="#faf9f5" text-anchor="middle" letter-spacing="-0.5">Netzwerk-Monitoring Pipeline</text>
+
+  <!-- Tags -->
+  <rect x="338" y="530" width="168" height="28" rx="14" fill="#788c5d" opacity="0.25"/>
+  <text x="422" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#788c5d" text-anchor="middle" font-weight="600">NetzwerkMonitoring</text>
+
+  <rect x="518" y="530" width="44" height="28" rx="14" fill="#788c5d" opacity="0.25"/>
+  <text x="540" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#788c5d" text-anchor="middle" font-weight="600">LLM</text>
+
+  <rect x="574" y="530" width="116" height="28" rx="14" fill="#788c5d" opacity="0.25"/>
+  <text x="632" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#788c5d" text-anchor="middle" font-weight="600">Heimnetzwerk</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="665" width="1200" height="10" fill="#788c5d"/>
+</svg>

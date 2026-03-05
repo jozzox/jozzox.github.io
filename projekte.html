@@ -14,29 +14,12 @@ permalink: /projekte/
   <div class="project-list">
     {%- assign projects = site.projects | sort: "date" | reverse -%}
     {%- for project in projects -%}
-    <article class="project-detail project-list__item">
-      {%- if project.image -%}
-      <div class="project-hero">
-        <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" loading="lazy">
-      </div>
-      {%- endif -%}
-      <header class="project-header">
-        <div class="project-header__meta">
-          <h2 class="project-title">
+    <article class="project-entry">
+      <div class="project-entry__header">
+        <div class="project-entry__meta">
+          <h2 class="project-entry__title">
             <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
           </h2>
-          {%- if project.client or project.year -%}
-          <dl class="project-info">
-            {%- if project.client -%}
-            <dt>Kunde</dt>
-            <dd>{{ project.client }}</dd>
-            {%- endif -%}
-            {%- if project.year -%}
-            <dt>Jahr</dt>
-            <dd>{{ project.year }}</dd>
-            {%- endif -%}
-          </dl>
-          {%- endif -%}
           {%- if project.tags -%}
           <ul class="tag-list" aria-label="Tags">
             {%- for tag in project.tags -%}
@@ -45,13 +28,20 @@ permalink: /projekte/
           </ul>
           {%- endif -%}
         </div>
-      </header>
+        {%- if project.image -%}
+        <div class="project-entry__image">
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" loading="lazy">
+        </div>
+        {%- else -%}
+        <div class="project-entry__image project-entry__image--placeholder" aria-hidden="true">
+          <span>{{ project.title | slice: 0 }}</span>
+        </div>
+        {%- endif -%}
+      </div>
       <div class="project-content">
         {{ project.content }}
       </div>
     </article>
-    {%- unless forloop.last -%}
-    <hr class="project-divider">{%- endunless -%}
     {%- else -%}
     <p>Projekte werden in Kürze veröffentlicht.</p>
     {%- endfor -%}

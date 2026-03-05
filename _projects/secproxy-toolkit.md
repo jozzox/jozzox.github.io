@@ -2,6 +2,7 @@
 layout: project
 title: "SecProxy Toolkit"
 date: 2026-03-10
+image: /assets/images/projects/secproxy-toolkit.svg
 tags: [Security, Pentest, ARM, Kali, Proxy]
 excerpt: "Eine modulare Open-Source-Alternative zu Burp Suite für ARM-basierte Kali Linux Umgebungen. Das Toolkit nutzt mitmproxy als zentrale Proxy-Komponente und orchestriert spezialisierte Security-Scanner über eine einheitliche CLI."
 ---

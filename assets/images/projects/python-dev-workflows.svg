@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <!-- Background -->
+  <rect width="1200" height="675" fill="#141413"/>
+
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#faf9f5" stroke-width="0.3" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+
+  <!-- Accent circle glow -->
+  <circle cx="600" cy="290" r="180" fill="#6a9bcc" opacity="0.07"/>
+
+  <!-- Terminal window icon -->
+  <!-- Window frame -->
+  <rect x="380" y="160" width="440" height="280" rx="12" fill="#1e1d1c" stroke="#6a9bcc" stroke-width="2" opacity="0.9"/>
+  <!-- Title bar -->
+  <rect x="380" y="160" width="440" height="42" rx="12" fill="#2a2928"/>
+  <rect x="380" y="181" width="440" height="21" fill="#2a2928"/>
+  <!-- Traffic lights -->
+  <circle cx="414" cy="181" r="7" fill="#ff5f57"/>
+  <circle cx="438" cy="181" r="7" fill="#febc2e"/>
+  <circle cx="462" cy="181" r="7" fill="#28c840"/>
+
+  <!-- Code lines -->
+  <!-- $ prompt -->
+  <text x="408" y="234" font-family="'Courier New', monospace" font-size="20" fill="#6a9bcc" font-weight="700">$</text>
+  <text x="430" y="234" font-family="'Courier New', monospace" font-size="20" fill="#faf9f5">uv init my-project</text>
+
+  <text x="408" y="264" font-family="'Courier New', monospace" font-size="20" fill="#6a9bcc" font-weight="700">$</text>
+  <text x="430" y="264" font-family="'Courier New', monospace" font-size="20" fill="#faf9f5">uv python pin 3.12</text>
+
+  <text x="408" y="294" font-family="'Courier New', monospace" font-size="20" fill="#6a9bcc" font-weight="700">$</text>
+  <text x="430" y="294" font-family="'Courier New', monospace" font-size="20" fill="#faf9f5">uv add pyqt6</text>
+
+  <text x="408" y="324" font-family="'Courier New', monospace" font-size="20" fill="#6a9bcc" font-weight="700">$</text>
+  <text x="430" y="324" font-family="'Courier New', monospace" font-size="20" fill="#faf9f5">uv run main.py</text>
+
+  <!-- Cursor blink -->
+  <rect x="408" y="352" width="12" height="20" fill="#6a9bcc" opacity="0.9" rx="1"/>
+
+  <!-- Bottom: Title and tags -->
+  <text x="600" y="510" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="800" fill="#faf9f5" text-anchor="middle" letter-spacing="-0.5">Python Dev Workflows</text>
+
+  <!-- Tags -->
+  <rect x="430" y="530" width="76" height="28" rx="14" fill="#6a9bcc" opacity="0.25"/>
+  <text x="468" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6a9bcc" text-anchor="middle" font-weight="600">Python</text>
+
+  <rect x="518" y="530" width="46" height="28" rx="14" fill="#6a9bcc" opacity="0.25"/>
+  <text x="541" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6a9bcc" text-anchor="middle" font-weight="600">UV</text>
+
+  <rect x="576" y="530" width="62" height="28" rx="14" fill="#6a9bcc" opacity="0.25"/>
+  <text x="607" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6a9bcc" text-anchor="middle" font-weight="600">PyQt6</text>
+
+  <rect x="650" y="530" width="68" height="28" rx="14" fill="#6a9bcc" opacity="0.25"/>
+  <text x="684" y="549" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6a9bcc" text-anchor="middle" font-weight="600">macOS</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="665" width="1200" height="10" fill="#6a9bcc"/>
+</svg>

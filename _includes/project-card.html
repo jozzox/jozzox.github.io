@@ -4,6 +4,10 @@
   <div class="project-card__image">
     <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" loading="lazy">
   </div>
+  {%- else -%}
+  <div class="project-card__image project-card__image--placeholder" aria-hidden="true">
+    <span>{{ project.title | slice: 0 }}</span>
+  </div>
   {%- endif -%}
   <div class="project-card__body">
     <h3 class="project-card__title">
